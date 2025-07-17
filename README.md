@@ -74,4 +74,3 @@ These insights support better decision-making for stakeholders.
 ## 📌 License
 
 This project is licensed under the **MIT License**.  
-You are free to use, modify, and share it with proper attribution.
