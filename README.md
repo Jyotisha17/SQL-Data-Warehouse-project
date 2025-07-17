@@ -70,6 +70,7 @@ This project includes:
 These insights support better decision-making for stakeholders.
 
 ---
+## 📂 Repository Structure
 
 data-warehouse-project/
 │
