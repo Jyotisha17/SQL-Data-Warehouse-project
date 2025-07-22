@@ -43,7 +43,6 @@ This project includes:
 - **SQL Server Management Studio (SSMS):** For managing the SQL Server environment.
 - **Draw.io:** For creating data architecture and flow diagrams.
 - **GitHub:** Version control and project collaboration.
-- **Notion:** Project planning and documentation.
 - **Datasets:** CRM and ERP data in CSV format (included in repo).
 
 ---
