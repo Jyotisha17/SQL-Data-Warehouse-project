@@ -30,7 +30,7 @@ It is the final curated layer in the data pipeline, where data is **cleaned, tra
 **Purpose**: Provides information about the products and their attributes.
 
 | Column Name            | Data Type     | Description                                                                 |
-|-------------------------|---------------|-----------------------------------------------------------------------------|
+|-------------------------|---------------|----------------------------------------------------------------------------|
 | `product_key`           | INT           | Surrogate key uniquely identifying each product record.                    |
 | `product_id`            | INT           | Unique identifier assigned to the product.                                 |
 | `product_number`        | NVARCHAR(50)  | Alphanumeric code representing the product.                                |
@@ -40,7 +40,7 @@ It is the final curated layer in the data pipeline, where data is **cleaned, tra
 | `subcategory`           | NVARCHAR(50)  | Detailed classification within the category.                               |
 | `maintenance`           | NVARCHAR(50)  | Indicates if maintenance is required (e.g., 'Yes', 'No').                  |
 | `product_line`          | NVARCHAR(50)  | Product line or series (e.g., Road, Mountain).                             |
-| `cost`                  | INT           | Base cost of the product.                                                  |                 
+| `cost`                  | INT           | Base cost of the product.                                                  |
 | `start_date`            | DATE          | Date when the product became available for sale or use.                    |
 
 ---
