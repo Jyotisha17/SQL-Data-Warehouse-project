@@ -16,7 +16,7 @@ WARNING:
 USE master;
 GO
 
--- Drop and recreate the 'DataWarehouse' database
+-- Drop and recreate the 'DataWarehouse_Project' database
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse_Project')
 BEGIN
     ALTER DATABASE DataWarehouse_Project SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
@@ -24,7 +24,7 @@ BEGIN
 END;
 GO
 
--- Create the 'DataWarehouse' database
+-- Create the 'DataWarehouse_Project' database
 CREATE DATABASE DataWarehouse_Project;
 GO
 
