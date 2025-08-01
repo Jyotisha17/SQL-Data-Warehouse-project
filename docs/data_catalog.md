@@ -8,7 +8,7 @@ It is the final curated layer in the data pipeline, where data is **cleaned, tra
 
 ---
 
-## 🟨 1. gold.dim_customers  
+## 🟨 1. gold.dimension_customers  
 **Purpose**: Stores customer details enriched with demographic and geographic data.
 
 | Column Name     | Data Type     | Description                                                                 |
@@ -26,7 +26,7 @@ It is the final curated layer in the data pipeline, where data is **cleaned, tra
 
 ---
 
-## 🟨 2. gold.dim_products  
+## 🟨 2. gold.dimension_products  
 **Purpose**: Provides information about the products and their attributes.
 
 | Column Name            | Data Type     | Description                                                                 |
